@@ -1,0 +1,17 @@
+form {
+    display: flex;
+    flex-direction: column;
+    row-gap: 2vw;
+}
+
+#inputfield {
+    display: inline;
+}
+
+#outputfield {
+    display: inline;
+}
+
+button {
+    width: max-content;
+}
